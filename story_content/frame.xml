@@ -1644,7 +1644,7 @@
       <links>
         <slidelink slideid="_player.5YGCEyrqqDk" displaytext="Bài học mới" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.5YGCEyrqqDk.6LoqMP4IUaV" displaytext="Tiết 1" expand="true" type="slide">
+            <slidelink slideid="_player.5YGCEyrqqDk.6LoqMP4IUaV" displaytext="Tiết 1" expand="false" type="slide">
               <links>
                 <slidelink slideid="_player.5sfCkqTxZmE.5a1mhf2BMRa" displaytext="Song and Dance" expand="false" type="slide" />
                 <slidelink slideid="_player.5sfCkqTxZmE.5spfkjzm7HP" displaytext="Fun Story Time" expand="false" type="slide" />
@@ -1655,14 +1655,14 @@
                 <slidelink slideid="_player.5sfCkqTxZmE.6ceDGHLc2Qq" displaytext="Let&amp;apos;s Check" expand="false" type="slide" />
               </links>
             </slidelink>
-            <slidelink slideid="_player.5YGCEyrqqDk.63SkPmv60Hr" displaytext="Tiết 2" expand="true" type="slide">
+            <slidelink slideid="_player.5YGCEyrqqDk.63SkPmv60Hr" displaytext="Tiết 2" expand="false" type="slide">
               <links>
                 <slidelink slideid="_player.5sfCkqTxZmE.5Yn2LuYKLMN" displaytext="Fun Activity Time" expand="false" type="slide" />
                 <slidelink slideid="_player.5sfCkqTxZmE.6jpIEZlkXxv" displaytext="Fun Dialog Review" expand="false" type="slide" />
                 <slidelink slideid="_player.5sfCkqTxZmE.5a1hb0ZHxYm" displaytext="Fun Alphabet Time" expand="false" type="slide" />
               </links>
             </slidelink>
-            <slidelink slideid="_player.5YGCEyrqqDk.6T1sjwkvcnO" displaytext="Tiết 2 (tiếp theo)" expand="true" type="slide">
+            <slidelink slideid="_player.5YGCEyrqqDk.6T1sjwkvcnO" displaytext="Tiết 2 (tiếp theo)" expand="false" type="slide">
               <links>
                 <slidelink slideid="_player.5sfCkqTxZmE.5ePmuqlhbRK" displaytext="Fun Song Time" expand="false" type="slide" />
                 <slidelink slideid="_player.5sfCkqTxZmE.5lfvhq1rZm9" displaytext="Let&amp;apos;s Check" expand="false" type="slide" />
